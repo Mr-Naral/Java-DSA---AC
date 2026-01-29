@@ -10,8 +10,8 @@ class Stack_LL{
         }   
     }
 
-    public void push(data){
-        
+    public void push(int data){
+
     }
 }
 
